@@ -1,0 +1,7 @@
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/TMax/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_TMAX_FORE
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/TMin/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_TMIN_FORE
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/Rad/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_RAD_FORE
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/PCum/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_PCUM_FORE
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/RhMax/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_RHMAX_FORE
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/RhMin/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_RHMIN_FORE
+C:/ERMES/data/IT/Regional/IT_EP_R4_Meteo/2015/WS/Forecasts;C:/ERMES/products/IT_2015/IT_2015.gdb;REGIONAL_METEO_WS_FORE

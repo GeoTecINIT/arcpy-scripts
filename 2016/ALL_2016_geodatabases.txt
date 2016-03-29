@@ -1,0 +1,4 @@
+C:/ERMES/products/IT;IT_2016.gdb
+C:/ERMES/products/ES;ES_2016.gdb
+C:/ERMES/products/GR;GR_2016.gdb
+C:/ERMES/products/GM;GM_2016.gdb
